@@ -1,0 +1,19 @@
+{
+  "name": "grpc_mali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.3.0",
+    "grpc": "^1.14.1",
+    "mali": "^0.9.1",
+    "path": "^0.12.7",
+    "proto-loader": "^0.2.0"
+  }
+}
